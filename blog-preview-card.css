@@ -17,14 +17,13 @@ main {
     height: 520px;
     width: 380px;
     border-radius: 20px;
-    box-shadow: 15px 15px;
+    box-shadow: 8px 8px;
 }
 
 @media (max-width:375px) {
     main {
         width: 330px;
         height: 500px;
-        box-shadow: 8px 8px;
     }
 
     .blog-card-graphic {
